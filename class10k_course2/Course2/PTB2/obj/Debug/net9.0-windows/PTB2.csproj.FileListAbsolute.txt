@@ -1,0 +1,17 @@
+D:\Studying_Coding\class10k_course2\Course2\PTB2\bin\Debug\net9.0-windows\PTB2.exe
+D:\Studying_Coding\class10k_course2\Course2\PTB2\bin\Debug\net9.0-windows\PTB2.deps.json
+D:\Studying_Coding\class10k_course2\Course2\PTB2\bin\Debug\net9.0-windows\PTB2.runtimeconfig.json
+D:\Studying_Coding\class10k_course2\Course2\PTB2\bin\Debug\net9.0-windows\PTB2.dll
+D:\Studying_Coding\class10k_course2\Course2\PTB2\bin\Debug\net9.0-windows\PTB2.pdb
+D:\Studying_Coding\class10k_course2\Course2\PTB2\obj\Debug\net9.0-windows\PTB2.frmMain.resources
+D:\Studying_Coding\class10k_course2\Course2\PTB2\obj\Debug\net9.0-windows\PTB2.csproj.GenerateResource.cache
+D:\Studying_Coding\class10k_course2\Course2\PTB2\obj\Debug\net9.0-windows\PTB2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying_Coding\class10k_course2\Course2\PTB2\obj\Debug\net9.0-windows\PTB2.AssemblyInfoInputs.cache
+D:\Studying_Coding\class10k_course2\Course2\PTB2\obj\Debug\net9.0-windows\PTB2.AssemblyInfo.cs
+D:\Studying_Coding\class10k_course2\Course2\PTB2\obj\Debug\net9.0-windows\PTB2.csproj.CoreCompileInputs.cache
+D:\Studying_Coding\class10k_course2\Course2\PTB2\obj\Debug\net9.0-windows\PTB2.dll
+D:\Studying_Coding\class10k_course2\Course2\PTB2\obj\Debug\net9.0-windows\refint\PTB2.dll
+D:\Studying_Coding\class10k_course2\Course2\PTB2\obj\Debug\net9.0-windows\PTB2.pdb
+D:\Studying_Coding\class10k_course2\Course2\PTB2\obj\Debug\net9.0-windows\PTB2.genruntimeconfig.cache
+D:\Studying_Coding\class10k_course2\Course2\PTB2\obj\Debug\net9.0-windows\ref\PTB2.dll
+D:\Studying_Coding\class10k_course2\Course2\PTB2\obj\Debug\net9.0-windows\PTB2.Properties.Resources.resources

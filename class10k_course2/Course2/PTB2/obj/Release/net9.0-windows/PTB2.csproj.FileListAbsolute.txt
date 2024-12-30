@@ -1,0 +1,7 @@
+D:\Studying_Coding\class10k_course2\Course2\PTB2\obj\Release\net9.0-windows\PTB2.frmMain.resources
+D:\Studying_Coding\class10k_course2\Course2\PTB2\obj\Release\net9.0-windows\PTB2.Properties.Resources.resources
+D:\Studying_Coding\class10k_course2\Course2\PTB2\obj\Release\net9.0-windows\PTB2.csproj.GenerateResource.cache
+D:\Studying_Coding\class10k_course2\Course2\PTB2\obj\Release\net9.0-windows\PTB2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying_Coding\class10k_course2\Course2\PTB2\obj\Release\net9.0-windows\PTB2.AssemblyInfoInputs.cache
+D:\Studying_Coding\class10k_course2\Course2\PTB2\obj\Release\net9.0-windows\PTB2.AssemblyInfo.cs
+D:\Studying_Coding\class10k_course2\Course2\PTB2\obj\Release\net9.0-windows\PTB2.csproj.CoreCompileInputs.cache
